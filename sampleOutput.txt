@@ -1,0 +1,31 @@
+Sample output:
+The fan speed is 0 (off) and is not in reverse mode.
+Input a number to pull a cord: 1 to pull the speed cord, 2 to pull the reverse cord, or 0 to quit.
+1
+The fan speed is 1 and is not in reverse mode.
+1
+The fan speed is 2 and is not in reverse mode.
+1
+The fan speed is 3 and is not in reverse mode.
+1
+The fan speed is 0 (off) and is not in reverse mode.
+2
+The fan speed is 0 (off) and is in reverse mode.
+1
+The fan speed is 1 and is in reverse mode.
+1
+The fan speed is 2 and is in reverse mode.
+1
+The fan speed is 3 and is in reverse mode.
+1
+The fan speed is 0 (off) and is in reverse mode.
+1
+The fan speed is 1 and is in reverse mode.
+1
+The fan speed is 2 and is in reverse mode.
+2
+The fan speed is 2 and is not in reverse mode.
+2
+The fan speed is 2 and is in reverse mode.
+0
+The fan speed is 2 and is in reverse mode.
